@@ -21,7 +21,7 @@ Benefits
   decision-making.
 
 # Tech Stack
-• SQL: Utilized for data definition, manipulation, and query operations within PostgreSQL databases.Download 
+• SQL: Utilized for data definition, manipulation, and query operations within PostgreSQL databases.[Download](#https://www.bing.com/ck/a?!&&p=f380492afadd058b9d30a625de00427df81ddf21d3e25a4f1343832f9b250ca3JmltdHM9MTczMzI3MDQwMA&ptn=3&ver=2&hsh=4&fclid=0b9dc488-4ce9-6c0d-0e25-d03e4d506de9&psq=sqlite&u=a1aHR0cHM6Ly9zcWxpdGUub3JnL2Rvd25sb2FkLmh0bWw&ntb=1)
 • PostgreSQL (Pgadmin Server): A powerful, open-source object-relational database system used for production, offering advanced features like transaction controls and 
   complex joins. [Download Here](https://www.bing.com/ck/a?!&&p=c17c2db78d764c7a86dd985db12e48d33032223e4da25942283493a2638c05f6JmltdHM9MTczMzI3MDQwMA&ptn=3&ver=2&hsh=4&fclid=0b9dc488-4ce9-6c0d-0e25-d03e4d506de9&psq=postgresql&u=a1aHR0cHM6Ly93d3cucG9zdGdyZXNxbC5vcmcvZG93bmxvYWQv&ntb=1)
 
